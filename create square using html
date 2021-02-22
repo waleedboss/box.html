@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html> 
+    
+<head>
+<title>figure 4-3: Table</title>
+
+<style>
+
+    
+
+
+div {
+    height: 190px;
+    width: 500px;
+    border: 2px solid rebeccapurple;
+    padding: 18px;
+
+
+
+}
+
+
+#first {
+    background-color: red;
+
+}
+
+#second { 
+   
+   background-color:  #ffe306;
+
+}
+
+#third {
+background-color:  #ff3920
+</style>
+</head>
+
+<body>
+
+
+<div id="first"/> </div>
+
+<div id="second"/><h1>HII</h1></div>
+
+<
+<div id="third"/>
+
+
+
+
+
+</body>
+</html>
+       
